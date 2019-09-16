@@ -1,0 +1,1 @@
+console.log("hello ts");   // luego ingresamos a la consola el comando tsc 
